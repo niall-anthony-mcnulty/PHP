@@ -1,10 +1,8 @@
-<html>
-<head>
-<title> PHP Test </title>
-</head>
-<body>
-    <?php 
-        echo ("<p> Hello World</p>");
-    ?>
-</body>
-</html>
+<?php
+
+echo "hello world";
+
+$a= 30;
+$b = 50;
+echo $a+$b;
+?>
